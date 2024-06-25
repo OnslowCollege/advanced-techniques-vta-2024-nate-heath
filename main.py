@@ -1,13 +1,9 @@
 """
 Main.
 
-Created by: NAME
-Date: DATE
+Created by: Nate Heath
+Date: 30/5/24
 """
 
-# Enter your code here
-name: str = input("Enter your name: ")
-if name:
-    print(f"Hello, {name}!")
-else:
-    print("Error getting name.")
+print("Welcome to Mystic Monsters")
+
