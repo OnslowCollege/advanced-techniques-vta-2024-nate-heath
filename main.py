@@ -6,3 +6,4 @@ Date: 30/5/24
 """
 
 print("Welcome to Mystic Monsters")
+
